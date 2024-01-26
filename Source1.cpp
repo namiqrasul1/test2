@@ -34,4 +34,5 @@ void main() {
 	sort(v.begin(), v.end());
 	auto i = find(v.begin(), v.end(), 5);
 	cout << boolalpha << binary_search(v.begin(), v.end(), 5);
+	// hakuna matata
 }
